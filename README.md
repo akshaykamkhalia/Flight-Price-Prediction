@@ -35,7 +35,7 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 
 
 
-run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+run this command in the project directory after [cloning] 
 ```bash
 pip install -r requirements.txt
 ```
